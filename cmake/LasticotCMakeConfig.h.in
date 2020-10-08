@@ -1,0 +1,5 @@
+// options and settings exported
+// to source code
+
+#define LasticotCMake_VERSION_MAJOR @LasticotCMake_VERSION_MAJOR@
+#define LasticotCMake_VERSION_MINOR @LasticotCMake_VERSION_MINOR@ 
